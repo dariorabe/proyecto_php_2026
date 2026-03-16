@@ -1,4 +1,4 @@
-# Proyecto PHP - Conversor en C
+# Proyecto PHP 
 
 ## Descripción
 Este proyecto es un conversor hecho en lenguaje C. La idea del programa es recibir datos que el usuario ingresa, hacer la conversión que el usuario selccione y mostrar el resultado en pantalla. 
