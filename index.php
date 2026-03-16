@@ -22,7 +22,7 @@
 
 <h1>Hola mundo, soy Darío Alfredo Rabe Godoy</h1>
 
-<img src="imagen_ai.jpg" width="400">
+<img src="hello-world.png" width="400">
 
 </body>
 </html>
