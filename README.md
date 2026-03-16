@@ -1,25 +1,28 @@
 # Proyecto PHP 
 
 ## Descripción
-Este proyecto es un conversor hecho en lenguaje C. La idea del programa es recibir datos que el usuario ingresa, hacer la conversión que el usuario selccione y mostrar el resultado en pantalla. 
+Este proyecto es una aplicación sencilla en PHP que muestra en pantalla el mensaje “Hola mundo, soy Darío Alfredo Rabé Godoy” y además incluye una imagen creada con inteligencia artificial.
 
-Es parte de la Actividad 3 para practicar la lógica de programación, el uso de variables, estructuras de control, entrada y salida de datos, y también para entender mejor cómo compilar y ejecutar programas en C desde la terminal.
+Lo hice para practicar PHP como lenguaje interpretado, entendiendo que en este caso no es necesario compilar el código para ejecutarlo, sino que se puede correr directamente en el navegador o también desde la terminal.
 
 ## Prerrequisitos
-Para poder ejecutar este proyecto se necesita tener instalado lo siguiente:
+Para ejecutar este proyecto se necesita:
 
-- Un compilador de C, como GCC
-- Visual Studio Code o cualquier editor de código
-- Un sistema operativo donde se pueda compilar el programa, por ejemplo Linux
+- Tener PHP instalado
+- Tener un servidor local como Apache
+- Tener Visual Studio Code o cualquier editor de código
+- Tener un navegador web o acceso a la terminal
+- Tener la imagen creada con inteligencia artificial dentro de la carpeta del proyecto
 
 ## Pasos para su ejecución
-1. Abrir la terminal.
-2. Ir a la carpeta donde está guardado el archivo conversor.c
-3. Compilar el programa con este comando: gcc conversor.c -o conversor
-4. Ejecutar el programa con este comando: ./conversor
-Ingresar los datos que pide el programa y revisar el resultado de la conversión.
+1. Crear el archivo index.php
+2. Guardar la imagen creada con inteligencia artificial dentro de la carpeta del proyecto.
+3. Mover la carpeta al servidor web, por ejemplo a /var/www/html/proyecto_php.
+4. Abrir el navegador.
+5. Entrar a http://localhost/proyecto_php (en mi caso http://192.168.0.50/proyecto_php/index.php)
+6. Verificar que aparezca el mensaje con mi nombre y la imagen.
 
 ## Datos del autor
-- Nombre: Darío Alfredo Rabé Godoy
+- Nombre: Darío Alfredo Rabe Godoy
 - Correo: dario.rabe@galileo.edu
 - Carnet: 26001025
